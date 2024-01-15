@@ -34,10 +34,10 @@ This Java program reads a CSV file and generates an HTML table, making it easy t
 Consider the following CSV file (`data.csv`):
 
 ```code
- fileWriter = new FileWriter("assets/index.html");
+ fileWriter = new FileWriter("assets/index.html"); //the location where html file is created
  Table table = new Table(fileWriter);
  table.writeHead(); //This should always be called
  table.createTableFromCSV("example.csv","Title of the Page");
  table.createTable(15);
- table.writeFooter();
+ table.writeFooter(); //Run this function to finalize the html page and write the data
  fileWriter.close();
