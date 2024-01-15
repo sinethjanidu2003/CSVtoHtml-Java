@@ -1,0 +1,73 @@
+EventID,EventName,Sport,Location,Date,Attendance,Organizer
+1,Summer Olympics 2024,Athletics,Tokyo,2024-07-23,100000,International Olympic Committee
+2,FIFA World Cup 2022,Football,Qatar,2022-11-21,80000,FIFA
+3,Wimbledon 2023,Tennis,London,2023-06-26,40000,All England Lawn Tennis and Croquet Club
+4,Super Bowl 2024,American Football,Los Angeles,2024-02-11,75000,National Football League
+5,NBA Finals 2023,Basketball,Phoenix,2023-06-15,18000,National Basketball Association
+6,MLB World Series 2023,Baseball,New York City,2023-10-27,45000,Major League Baseball
+7,Rugby World Cup 2023,Rugby,Paris,2023-09-08,60000,World Rugby
+8,Indian Premier League 2024,Cricket,Mumbai,2024-04-05,55000,Board of Control for Cricket in India
+9,US Open 2023,Golf,Pebble Beach,2023-08-17,35000,United States Golf Association
+10,Tour de France 2023,Cycling,Paris,2023-07-01,200000,Amaury Sport Organisation
+11,Australian Open 2024,Tennis,Melbourne,2024-01-08,30000,Tennis Australia
+12,NHL Stanley Cup 2023,Ice Hockey,Montreal,2023-06-04,22000,National Hockey League
+13,UEFA Champions League Final 2023,Football,Munich,2023-05-27,70000,UEFA
+14,NASCAR Daytona 500 2024,Stock Car Racing,Daytona Beach,2024-02-18,90000,National Association for Stock Car Auto Racing
+15,The Masters 2023,Golf,Augusta,2023-04-06,40000,Augusta National Golf Club
+16,ICC Cricket World Cup 2023,Cricket,Mumbai,2023-11-08,60000,International Cricket Council
+17,Super Rugby Final 2024,Rugby,Wellington,2024-07-20,35000,SANZAAR
+18,NBA All-Star Game 2023,Basketball,Salt Lake City,2023-02-19,20000,National Basketball Association
+19,World Series of Poker 2023,Poker,Las Vegas,2023-06-10,1000,World Series of Poker
+20,Paris Marathon 2024,Marathon,Paris,2024-04-14,30000,ASO
+21,FIFA Women's World Cup 2023,Women's Football,Sydney,2023-07-10,35000,FIFA
+22,Stanley Cup Finals 2024,Ice Hockey,Toronto,2024-06-12,18000,National Hockey League
+23,The Open Championship 2023,Golf,St. Andrews,2023-07-20,45000,R&A
+24,World Swimming Championships 2024,Swimming,Budapest,2024-07-28,12000,FINA
+25,NFL Pro Bowl 2023,American Football,Las Vegas,2023-01-29,50000,National Football League
+26,World Snooker Championship 2024,Snooker,Sheffield,2024-04-18,2500,World Professional Billiards and Snooker Association
+27,UEFA Europa League Final 2023,Football,Seville,2023-05-24,50000,UEFA
+28,Boston Marathon 2023,Marathon,Boston,2023-04-17,30000,Boston Athletic Association
+29,NBA Summer League 2024,Basketball,Las Vegas,2024-07-05,15000,National Basketball Association
+30,US Grand Prix 2023,Formula 1,Austin,2023-11-05,70000,Formula One Group
+31,Ryder Cup 2023,Golf,Rome,2023-09-29,40000,Ryder Cup Europe
+32,World Figure Skating Championships 2024,Figure Skating,Montreal,2024-03-18,15000,International Skating Union
+33,AFC Asian Cup 2023,Football,Beijing,2023-01-07,60000,AFC
+34,Cricket World Test Championship Final 2023,Cricket,Lord's,2023-06-18,30000,International Cricket Council
+35,Daytona 200 2024,Motorcycle Racing,Daytona Beach,2024-03-14,25000,American Motorcyclist Association
+36,French Open 2024,Tennis,Paris,2024-05-26,35000,French Tennis Federation
+37,NHL Winter Classic 2023,Ice Hockey,Minneapolis,2023-01-01,45000,National Hockey League
+38,ICC Women's T20 World Cup 2023,Cricket,Auckland,2023-02-18,25000,International Cricket Council
+39,Copa America 2024,Football,Santiago,2024-06-23,60000,South American Football Confederation
+40,US Open Cup Final 2023,Soccer,Kansas City,2023-09-20,30000,United States Soccer Federation
+41,World Triathlon Series 2024,Triathlon,Hamburg,2024-07-21,10000,International Triathlon Union
+42,The Players Championship 2023,Golf,Ponte Vedra Beach,2023-03-16,30000,PGA Tour
+43,Australian Grand Prix 2024,Formula 1,Melbourne,2024-03-17,60000,Formula One Group
+44,NHL All-Star Game 2023,Ice Hockey,St. Louis,2023-01-28,18000,National Hockey League
+45,World Indoor Track and Field Championships 2024,Athletics,Belgrade,2024-03-01,15000,World Athletics
+46,Cricket Asia Cup 2023,Cricket,Karachi,2023-09-10,45000,Asian Cricket Council
+47,CONCACAF Gold Cup 2024,Soccer,Los Angeles,2024-07-07,55000,CONCACAF
+48,FIS Alpine World Ski Championships 2023,Skiing,Cortina d'Ampezzo,2023-02-06,20000,FIS
+49,NBA G League Showcase 2024,Basketball,Las Vegas,2024-02-09,10000,NBA G League
+50,The Ashes 2023-24,Cricket,Sydney,2024-01-04,40000,Cricket Australia
+51,WWE WrestleMania 40,Wrestling,New Orleans,2024-04-07,70000,World Wrestling Entertainment
+52,World Synchronized Skating Championships 2023,Synchronized Skating,Osaka,2023-04-07,12000,International Skating Union
+53,European Athletics Championships 2024,Athletics,Munich,2024-08-12,30000,European Athletics
+54,UEFA Super Cup 2023,Football,Istanbul,2023-08-18,45000,UEFA
+55,Indy 500 2024,IndyCar Racing,Indianapolis,2024-05-26,300000,IndyCar
+56,World Judo Championships 2023,Judo,Budapest,2023-06-06,15000,International Judo Federation
+57,World Archery Championships 2024,Archery,Paris,2024-07-15,10000,World Archery Federation
+58,The Rugby Championship 2023,Rugby,Brisbane,2023-08-19,35000,SANZAAR
+59,NCAA March Madness 2024,Basketball,Various,2024-03-19,50000,National Collegiate Athletic Association
+60,IAAF World Cross Country Championships 2023,Athletics,Bathurst,2023-03-25,20000,World Athletics
+61,World Taekwondo Championships 2024,Taekwondo,Moscow,2024-05-15,12000,World Taekwondo Federation
+62,Carabao Cup Final 2023,Soccer,London,2023-02-26,80000,English Football League
+63,World Modern Pentathlon Championships 2023,Modern Pentathlon,Cairo,2023-08-25,10000,Union Internationale de Pentathlon Moderne
+64,NHL Draft 2024,Ice Hockey,Philadelphia,2024-06-21,15000,National Hockey League
+65,AFC Women's Asian Cup 2023,Women's Football,Mumbai,2023-01-21,25000,AFC
+66,US Open Tennis 2024,Tennis,New York City,2024-08-26,60000,United States Tennis Association
+67,Cricket World Cup T20 2024,Cricket,Melbourne,2024-10-18,50000,International Cricket Council
+68,Paris-Roubaix 2023,Cycling,Compiegne,2023-04-09,20000,Amaury Sport Organisation
+69,MLS Cup 2024,Soccer,Seattle,2024-12-07,45000,Major League Soccer
+70,World Badminton Championships 2023,Badminton,Tokyo,2023-08-21,12000,Badminton World Federation
+71,British Grand Prix 2024,Formula 1,Silverstone,2024-07-14,80000,Formula One Group
+72,NFL London Games 2023,American Football,London,2023-10-22,60000,National Football League
